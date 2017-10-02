@@ -4,4 +4,4 @@ Dockerfile for scrapy
 
 #Usage
 
-`docker run --rm -it -v /home/serty2/immocrawl:/project dpacaud/scrapy:master`
+`docker run --rm -it -v /home/serty2/immocrawl:/project dpacaud/scrapy:lastest`
